@@ -22,7 +22,7 @@ int main(){
 //    chapter04.delete_name();
 //    chapter05.text_in_01();
 //    chapter06.cin_golf();
-    chapter08.swaps();
+    chapter08.two_swap();
 
     return 0;
 

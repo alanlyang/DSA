@@ -55,6 +55,10 @@ Chapter08.h
 ../Unit00/chapter08/Chapter08.h
 iostream
 ../Unit00/chapter08/iostream
+fstream
+../Unit00/chapter08/fstream
+cstdlib
+../Unit00/chapter08/cstdlib
 
 ../Unit00/chapter08/Chapter08.h
 
