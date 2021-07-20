@@ -50,17 +50,15 @@ iostream
 
 ../Unit00/chapter07/Chapter07.h
 
-../Unit00/chapter08/Chapter08.cpp
-Chapter08.h
-../Unit00/chapter08/Chapter08.h
+../Unit00/chapter09/Chapter09.cpp
+Chapter09.h
+../Unit00/chapter09/Chapter09.h
 iostream
-../Unit00/chapter08/iostream
-fstream
-../Unit00/chapter08/fstream
-cstdlib
-../Unit00/chapter08/cstdlib
+../Unit00/chapter09/iostream
+new
+-
 
-../Unit00/chapter08/Chapter08.h
+../Unit00/chapter09/Chapter09.h
 
 F:/DSA/main.cpp
 iostream
@@ -73,6 +71,6 @@ chapter06/Chapter06.cpp
 F:/DSA/chapter06/Chapter06.cpp
 chapter07/Chapter07.cpp
 F:/DSA/chapter07/Chapter07.cpp
-chapter08/Chapter08.cpp
-F:/DSA/chapter08/Chapter08.cpp
+chapter09/Chapter09.cpp
+F:/DSA/chapter09/Chapter09.cpp
 

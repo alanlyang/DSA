@@ -11,10 +11,11 @@ using namespace std;
 #include "chapter05/Chapter05.cpp"
 #include "chapter06/Chapter06.cpp"
 #include "chapter07/Chapter07.cpp"
-#include "chapter08/Chapter08.cpp"
+//#include "chapter08/Chapter08.cpp"
+#include "chapter09/Chapter09.cpp"
 
 int main(){
-    Chapter08 chapter08;
+    Chapter09 chapter09;
 //    chapter03.morechar();
 //    chapter03.bondini();
 //    chapter03.floatnum();
@@ -22,7 +23,7 @@ int main(){
 //    chapter04.delete_name();
 //    chapter05.text_in_01();
 //    chapter06.cin_golf();
-    chapter08.two_swap();
+    chapter09.new_place();
 
     return 0;
 
