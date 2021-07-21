@@ -60,6 +60,18 @@ new
 
 ../Unit00/chapter09/Chapter09.h
 
+F:/DSA/Unit00/chapter10/Stock.cpp
+Stock.h
+F:/DSA/Unit00/chapter10/Stock.h
+
+F:/DSA/Unit00/chapter10/Stock.h
+iostream
+F:/DSA/Unit00/chapter10/iostream
+cstring
+F:/DSA/Unit00/chapter10/cstring
+string
+F:/DSA/Unit00/chapter10/string
+
 F:/DSA/main.cpp
 iostream
 F:/DSA/iostream
@@ -73,4 +85,6 @@ chapter07/Chapter07.cpp
 F:/DSA/chapter07/Chapter07.cpp
 chapter09/Chapter09.cpp
 F:/DSA/chapter09/Chapter09.cpp
+Unit00/chapter10/Stock.cpp
+F:/DSA/Unit00/chapter10/Stock.cpp
 

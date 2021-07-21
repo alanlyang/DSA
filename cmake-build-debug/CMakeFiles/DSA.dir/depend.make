@@ -14,5 +14,7 @@ CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter07/Chapter07.cpp
 CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter07/Chapter07.h
 CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter09/Chapter09.cpp
 CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter09/Chapter09.h
+CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter10/Stock.cpp
+CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter10/Stock.h
 CMakeFiles/DSA.dir/main.cpp.obj: ../main.cpp
 
