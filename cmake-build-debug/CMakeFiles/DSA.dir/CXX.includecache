@@ -92,6 +92,34 @@ F:/DSA/Unit00/chapter11/Vector.h
 istream
 -
 
+F:/DSA/Unit00/chapter12/Consumer.cpp
+Consumer.h
+F:/DSA/Unit00/chapter12/Consumer.h
+cstdlib
+F:/DSA/Unit00/chapter12/cstdlib
+
+F:/DSA/Unit00/chapter12/Consumer.h
+
+F:/DSA/Unit00/chapter12/Queue.cpp
+Queue.h
+F:/DSA/Unit00/chapter12/Queue.h
+cstdlib
+F:/DSA/Unit00/chapter12/cstdlib
+
+F:/DSA/Unit00/chapter12/Queue.h
+Consumer.h
+F:/DSA/Unit00/chapter12/Consumer.h
+
+F:/DSA/Unit00/chapter12/StringBad.cpp
+StringBad.h
+F:/DSA/Unit00/chapter12/StringBad.h
+cstring
+F:/DSA/Unit00/chapter12/cstring
+
+F:/DSA/Unit00/chapter12/StringBad.h
+iostream
+-
+
 F:/DSA/main.cpp
 iostream
 F:/DSA/iostream
@@ -115,4 +143,10 @@ Unit00/chapter11/Mytime.cpp
 F:/DSA/Unit00/chapter11/MyTime.cpp
 Unit00/chapter11/Vector.cpp
 F:/DSA/Unit00/chapter11/Vector.cpp
+Unit00/chapter12/StringBad.cpp
+F:/DSA/Unit00/chapter12/StringBad.cpp
+Unit00/chapter12/Queue.cpp
+F:/DSA/Unit00/chapter12/Queue.cpp
+Unit00/chapter12/Consumer.cpp
+F:/DSA/Unit00/chapter12/Consumer.cpp
 

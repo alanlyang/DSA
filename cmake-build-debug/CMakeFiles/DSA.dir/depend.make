@@ -20,5 +20,11 @@ CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter11/MyTime.cpp
 CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter11/MyTime.h
 CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter11/Vector.cpp
 CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter11/Vector.h
+CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter12/Consumer.cpp
+CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter12/Consumer.h
+CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter12/Queue.cpp
+CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter12/Queue.h
+CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter12/StringBad.cpp
+CMakeFiles/DSA.dir/main.cpp.obj: ../Unit00/chapter12/StringBad.h
 CMakeFiles/DSA.dir/main.cpp.obj: ../main.cpp
 
