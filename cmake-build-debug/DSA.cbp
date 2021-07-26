@@ -86,6 +86,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="F:/DSA/Unit00/chapter13/BrassPlus.cpp">
+			<Option target="DSA"/>
+		</Unit>
+		<Unit filename="F:/DSA/Unit00/chapter13/BrassPlus.h">
+			<Option target="DSA"/>
+		</Unit>
+		<Unit filename="F:/DSA/Unit00/chapter13/RatePlayer.cpp">
+			<Option target="DSA"/>
+		</Unit>
+		<Unit filename="F:/DSA/Unit00/chapter13/RatePlayer.h">
+			<Option target="DSA"/>
+		</Unit>
+		<Unit filename="F:/DSA/Unit00/chapter13/TableTennisPlayer.cpp">
+			<Option target="DSA"/>
+		</Unit>
+		<Unit filename="F:/DSA/Unit00/chapter13/TableTennisPlayer.h">
+			<Option target="DSA"/>
+		</Unit>
 		<Unit filename="F:/DSA/Unit01/HailStones.cpp">
 			<Option target="DSA"/>
 		</Unit>

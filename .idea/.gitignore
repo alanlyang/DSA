@@ -6,4 +6,4 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-../DSA/cmake-build-debug/
+../cmake-build-debug/

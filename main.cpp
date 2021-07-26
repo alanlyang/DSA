@@ -142,7 +142,7 @@ void chapter12_bank(){
     cout << "Done! \n";
 }
 
-int main(){
+//int _main(){
 //    while(true){
 //        char q;
 //        cin >> q;
@@ -179,6 +179,6 @@ int main(){
 //    total.show();
 
 
-    return 0;
-
-}
+//    return 0;
+//
+//}

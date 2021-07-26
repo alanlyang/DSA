@@ -103,21 +103,69 @@ CMakeFiles/DSA.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DSA.dir/main.cpp.s"
 	E:\MinGW64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\DSA\main.cpp -o CMakeFiles\DSA.dir\main.cpp.s
 
+CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.obj: CMakeFiles/DSA.dir/flags.make
+CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.obj: CMakeFiles/DSA.dir/includes_CXX.rsp
+CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.obj: ../Unit00/chapter13/TableTennisPlayer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\DSA\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.obj"
+	E:\MinGW64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DSA.dir\Unit00\chapter13\TableTennisPlayer.cpp.obj -c F:\DSA\Unit00\chapter13\TableTennisPlayer.cpp
+
+CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.i"
+	E:\MinGW64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\DSA\Unit00\chapter13\TableTennisPlayer.cpp > CMakeFiles\DSA.dir\Unit00\chapter13\TableTennisPlayer.cpp.i
+
+CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.s"
+	E:\MinGW64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\DSA\Unit00\chapter13\TableTennisPlayer.cpp -o CMakeFiles\DSA.dir\Unit00\chapter13\TableTennisPlayer.cpp.s
+
+CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.obj: CMakeFiles/DSA.dir/flags.make
+CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.obj: CMakeFiles/DSA.dir/includes_CXX.rsp
+CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.obj: ../Unit00/chapter13/RatePlayer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\DSA\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.obj"
+	E:\MinGW64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DSA.dir\Unit00\chapter13\RatePlayer.cpp.obj -c F:\DSA\Unit00\chapter13\RatePlayer.cpp
+
+CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.i"
+	E:\MinGW64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\DSA\Unit00\chapter13\RatePlayer.cpp > CMakeFiles\DSA.dir\Unit00\chapter13\RatePlayer.cpp.i
+
+CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.s"
+	E:\MinGW64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\DSA\Unit00\chapter13\RatePlayer.cpp -o CMakeFiles\DSA.dir\Unit00\chapter13\RatePlayer.cpp.s
+
+CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.obj: CMakeFiles/DSA.dir/flags.make
+CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.obj: CMakeFiles/DSA.dir/includes_CXX.rsp
+CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.obj: ../Unit00/chapter13/BrassPlus.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\DSA\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.obj"
+	E:\MinGW64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DSA.dir\Unit00\chapter13\BrassPlus.cpp.obj -c F:\DSA\Unit00\chapter13\BrassPlus.cpp
+
+CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.i"
+	E:\MinGW64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\DSA\Unit00\chapter13\BrassPlus.cpp > CMakeFiles\DSA.dir\Unit00\chapter13\BrassPlus.cpp.i
+
+CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.s"
+	E:\MinGW64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\DSA\Unit00\chapter13\BrassPlus.cpp -o CMakeFiles\DSA.dir\Unit00\chapter13\BrassPlus.cpp.s
+
 # Object files for target DSA
 DSA_OBJECTS = \
 "CMakeFiles/DSA.dir/Unit01/HailStones.cpp.obj" \
-"CMakeFiles/DSA.dir/main.cpp.obj"
+"CMakeFiles/DSA.dir/main.cpp.obj" \
+"CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.obj" \
+"CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.obj" \
+"CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.obj"
 
 # External object files for target DSA
 DSA_EXTERNAL_OBJECTS =
 
 DSA.exe: CMakeFiles/DSA.dir/Unit01/HailStones.cpp.obj
 DSA.exe: CMakeFiles/DSA.dir/main.cpp.obj
+DSA.exe: CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.obj
+DSA.exe: CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.obj
+DSA.exe: CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.obj
 DSA.exe: CMakeFiles/DSA.dir/build.make
 DSA.exe: CMakeFiles/DSA.dir/linklibs.rsp
 DSA.exe: CMakeFiles/DSA.dir/objects1.rsp
 DSA.exe: CMakeFiles/DSA.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\DSA\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable DSA.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\DSA\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable DSA.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DSA.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

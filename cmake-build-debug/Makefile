@@ -141,6 +141,87 @@ DSA/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/build
 .PHONY : DSA/fast
 
+Unit00/chapter13/BrassPlus.obj: Unit00/chapter13/BrassPlus.cpp.obj
+
+.PHONY : Unit00/chapter13/BrassPlus.obj
+
+# target to build an object file
+Unit00/chapter13/BrassPlus.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.obj
+.PHONY : Unit00/chapter13/BrassPlus.cpp.obj
+
+Unit00/chapter13/BrassPlus.i: Unit00/chapter13/BrassPlus.cpp.i
+
+.PHONY : Unit00/chapter13/BrassPlus.i
+
+# target to preprocess a source file
+Unit00/chapter13/BrassPlus.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.i
+.PHONY : Unit00/chapter13/BrassPlus.cpp.i
+
+Unit00/chapter13/BrassPlus.s: Unit00/chapter13/BrassPlus.cpp.s
+
+.PHONY : Unit00/chapter13/BrassPlus.s
+
+# target to generate assembly for a file
+Unit00/chapter13/BrassPlus.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/Unit00/chapter13/BrassPlus.cpp.s
+.PHONY : Unit00/chapter13/BrassPlus.cpp.s
+
+Unit00/chapter13/RatePlayer.obj: Unit00/chapter13/RatePlayer.cpp.obj
+
+.PHONY : Unit00/chapter13/RatePlayer.obj
+
+# target to build an object file
+Unit00/chapter13/RatePlayer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.obj
+.PHONY : Unit00/chapter13/RatePlayer.cpp.obj
+
+Unit00/chapter13/RatePlayer.i: Unit00/chapter13/RatePlayer.cpp.i
+
+.PHONY : Unit00/chapter13/RatePlayer.i
+
+# target to preprocess a source file
+Unit00/chapter13/RatePlayer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.i
+.PHONY : Unit00/chapter13/RatePlayer.cpp.i
+
+Unit00/chapter13/RatePlayer.s: Unit00/chapter13/RatePlayer.cpp.s
+
+.PHONY : Unit00/chapter13/RatePlayer.s
+
+# target to generate assembly for a file
+Unit00/chapter13/RatePlayer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/Unit00/chapter13/RatePlayer.cpp.s
+.PHONY : Unit00/chapter13/RatePlayer.cpp.s
+
+Unit00/chapter13/TableTennisPlayer.obj: Unit00/chapter13/TableTennisPlayer.cpp.obj
+
+.PHONY : Unit00/chapter13/TableTennisPlayer.obj
+
+# target to build an object file
+Unit00/chapter13/TableTennisPlayer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.obj
+.PHONY : Unit00/chapter13/TableTennisPlayer.cpp.obj
+
+Unit00/chapter13/TableTennisPlayer.i: Unit00/chapter13/TableTennisPlayer.cpp.i
+
+.PHONY : Unit00/chapter13/TableTennisPlayer.i
+
+# target to preprocess a source file
+Unit00/chapter13/TableTennisPlayer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.i
+.PHONY : Unit00/chapter13/TableTennisPlayer.cpp.i
+
+Unit00/chapter13/TableTennisPlayer.s: Unit00/chapter13/TableTennisPlayer.cpp.s
+
+.PHONY : Unit00/chapter13/TableTennisPlayer.s
+
+# target to generate assembly for a file
+Unit00/chapter13/TableTennisPlayer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/Unit00/chapter13/TableTennisPlayer.cpp.s
+.PHONY : Unit00/chapter13/TableTennisPlayer.cpp.s
+
 Unit01/HailStones.obj: Unit01/HailStones.cpp.obj
 
 .PHONY : Unit01/HailStones.obj
@@ -204,6 +285,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DSA
+	@echo ... Unit00/chapter13/BrassPlus.obj
+	@echo ... Unit00/chapter13/BrassPlus.i
+	@echo ... Unit00/chapter13/BrassPlus.s
+	@echo ... Unit00/chapter13/RatePlayer.obj
+	@echo ... Unit00/chapter13/RatePlayer.i
+	@echo ... Unit00/chapter13/RatePlayer.s
+	@echo ... Unit00/chapter13/TableTennisPlayer.obj
+	@echo ... Unit00/chapter13/TableTennisPlayer.i
+	@echo ... Unit00/chapter13/TableTennisPlayer.s
 	@echo ... Unit01/HailStones.obj
 	@echo ... Unit01/HailStones.i
 	@echo ... Unit01/HailStones.s
