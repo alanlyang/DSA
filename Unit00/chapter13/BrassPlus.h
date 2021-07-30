@@ -4,22 +4,23 @@
 
 #ifndef DSA_BRASSPLUS_H
 #define DSA_BRASSPLUS_H
-class Brass{
-private:
-    enum {MAX=35};
-    char full_name[MAX];
-    long acct_num; // 账号
-    double balance; // 余额
+#include "AcctABC.h"
+class Brass:public AcctABC{
+//private:
+//    enum {MAX=35};
+//    char full_name[MAX];
+//    long acct_num; // 账号
+//    double balance; // 余额
 public:
-    Brass(const char*s = "Nullbody", long an=-1, double bal=0.0);
-    void Deposit(double amt); // 存款
+    Brass(const char*s = "Nullbody", long an=-1, double bal=0.0): AcctABC(s,an, bal){};
+//    void Deposit(double amt); // 存款
     virtual void Withdraw(double amt); // 取钱
-    double Balance()const; // 余额
+//    double Balance()const; // 余额
     virtual void ViewAcct()const; // 查看账户
     virtual ~Brass(){} // 惯例为基类声明一个虚拟析构函数
 };
 
-class BrassPlus: public Brass{
+class BrassPlus: public AcctABC{
 private:
     double max_loan;// 最大额度
     double rate; // 利率

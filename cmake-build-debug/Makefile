@@ -141,6 +141,33 @@ DSA/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/build
 .PHONY : DSA/fast
 
+Unit00/chapter13/AcctABC.obj: Unit00/chapter13/AcctABC.cpp.obj
+
+.PHONY : Unit00/chapter13/AcctABC.obj
+
+# target to build an object file
+Unit00/chapter13/AcctABC.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/Unit00/chapter13/AcctABC.cpp.obj
+.PHONY : Unit00/chapter13/AcctABC.cpp.obj
+
+Unit00/chapter13/AcctABC.i: Unit00/chapter13/AcctABC.cpp.i
+
+.PHONY : Unit00/chapter13/AcctABC.i
+
+# target to preprocess a source file
+Unit00/chapter13/AcctABC.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/Unit00/chapter13/AcctABC.cpp.i
+.PHONY : Unit00/chapter13/AcctABC.cpp.i
+
+Unit00/chapter13/AcctABC.s: Unit00/chapter13/AcctABC.cpp.s
+
+.PHONY : Unit00/chapter13/AcctABC.s
+
+# target to generate assembly for a file
+Unit00/chapter13/AcctABC.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DSA.dir\build.make CMakeFiles/DSA.dir/Unit00/chapter13/AcctABC.cpp.s
+.PHONY : Unit00/chapter13/AcctABC.cpp.s
+
 Unit00/chapter13/BrassPlus.obj: Unit00/chapter13/BrassPlus.cpp.obj
 
 .PHONY : Unit00/chapter13/BrassPlus.obj
@@ -285,6 +312,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DSA
+	@echo ... Unit00/chapter13/AcctABC.obj
+	@echo ... Unit00/chapter13/AcctABC.i
+	@echo ... Unit00/chapter13/AcctABC.s
 	@echo ... Unit00/chapter13/BrassPlus.obj
 	@echo ... Unit00/chapter13/BrassPlus.i
 	@echo ... Unit00/chapter13/BrassPlus.s
